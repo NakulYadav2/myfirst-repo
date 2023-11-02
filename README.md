@@ -1,4 +1,4 @@
 # myfirst-repo
-Author = Nakul Yadav 
+Author = <b>Nakul Yadav</b> 
 <br>
 Published on 02november,2023
